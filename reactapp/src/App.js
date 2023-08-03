@@ -2,7 +2,7 @@
 import { useState, React } from './react';
 import './App.css';
 import Button from "./components/UI/Button/Button";
-import Card 
+import Card from "./components/UI/Card/Card";
 function App() {
 
     var qCards;
