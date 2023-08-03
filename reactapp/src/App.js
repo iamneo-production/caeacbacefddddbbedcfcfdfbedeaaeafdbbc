@@ -1,9 +1,9 @@
 
-import { useState } from 'react';
+import { useState } from './react';
 import './App.css';
 import Button from "./components/UI/Button/Button";
 import Card from "./components/UI/Card/Card";
-import React from './';
+import React from './react';
 function App() {
 
   var qCards;
